@@ -1,8 +1,8 @@
 {
   "window.zoomLevel": 0,
-  "editor.fontFamily": "Operator Mono, Menlo, Monaco, 'Courier New', monospace",
+  "editor.fontFamily": "Fira Mono, Operator Mono, Menlo, Monaco, 'Courier New', monospace",
   "editor.fontSize": 16,
-  "editor.lineHeight": 40,
+  "editor.lineHeight": 30,
   "editor.letterSpacing": 0.5,
   "workbench.editor.tabSizing": "shrink",
   "html.format.enable": true,
@@ -15,7 +15,6 @@
   "editor.multiCursorModifier": "ctrlCmd",
   "editor.fontWeight": "400",
   "editor.cursorBlinking": "solid",
-  "editor.colorDecorators": false,
   "editor.minimap.enabled": false,
   "vscode_custom_css.imports": [
     "/Volumes/Macintosh HD/Users/wesbos/.vscodestyles.css"
@@ -50,5 +49,9 @@
     "editor.formatOnSave": false
   },
   "eslint.autoFixOnSave": true,
-  "eslint.alwaysShowStatus": true
+  "eslint.alwaysShowStatus": true,
+  "auto-close-tag.SublimeText3Mode": true,
+  "eslint.packageManager": "yarn",
+  "prettier.singleQuote": true,
+  "prettier.eslintIntegration": true
 }
