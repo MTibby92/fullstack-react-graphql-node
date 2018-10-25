@@ -53,5 +53,6 @@
   "auto-close-tag.SublimeText3Mode": true,
   "eslint.packageManager": "yarn",
   "prettier.singleQuote": true,
-  "prettier.eslintIntegration": true
+  "prettier.eslintIntegration": true,
+  "prettier.jsxBracketSameLine": true
 }
